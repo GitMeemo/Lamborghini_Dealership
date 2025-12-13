@@ -6,6 +6,7 @@ A modern, fully responsive Lamborghini dealership website built with React.
 This project focuses on clean UI, smooth animations, and a premium user experience across all screen sizes.
 
 KEY FEATURES:
+
 Responsive layout optimized for desktop, tablet, and mobile
 
 Smooth image sliders and interactive animations
