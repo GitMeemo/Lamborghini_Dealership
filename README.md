@@ -1,7 +1,7 @@
 # Web-Frontend-Project
-Lamborghini Dealership
+LAMBORGHINI DEALERSHIP
 
-A modern, fully responsive Lamborghini dealership website built with React.
+A modern, fully responsive Lamborghini dealership website built with React. can also be changed into other business website.
 
 This project focuses on clean UI, smooth animations, and a premium user experience across all screen sizes.
 
