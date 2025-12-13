@@ -32,7 +32,11 @@ Intro Video – Cinematic video section highlighting the brand
 FindUs – Dealership location and contact information
 
 Footer – Social links and dealership details
+
 TECH STACK:
+
 React (JSX)
+
 CSS / Flexbox / Responsive Design
+
 JavaScript
