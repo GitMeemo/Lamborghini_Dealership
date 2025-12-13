@@ -6,11 +6,11 @@ This project focuses on clean UI, smooth animations, and a premium user experien
 
 ## Key Features
 
--Responsive layout optimized for desktop, tablet, and mobile
+-  Responsive layout optimized for desktop, tablet, and mobile
 
-+Smooth image sliders and interactive animations
++  Smooth image sliders and interactive animations
 
-*Clean component-based architecture
+*  Clean component-based architecture
 
 Luxury-inspired UI and typography
 
