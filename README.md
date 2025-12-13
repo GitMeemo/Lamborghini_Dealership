@@ -7,36 +7,36 @@ This project focuses on clean UI, smooth animations, and a premium user experien
 
 KEY FEATURES:
 
-Responsive layout optimized for desktop, tablet, and mobile
+      Responsive layout optimized for desktop, tablet, and mobile
 
-Smooth image sliders and interactive animations
+      Smooth image sliders and interactive animations
 
-Clean component-based architecture
+      Clean component-based architecture
 
-Luxury-inspired UI and typography
+      Luxury-inspired UI and typography
 
-Optimized layout for real-world dealership websites
+      Optimized layout for real-world dealership websites
 
 COMPONENTS:
 
-Header – Hero section with branding and call-to-action
+      Header – Hero section with branding and call-to-action
 
-AboutUs – Brand philosophy and dealership overview
+      AboutUs – Brand philosophy and dealership overview
 
-FeaturedModels – Interactive car slider showcasing Lamborghini models and specifications
+      FeaturedModels – Interactive car slider showcasing Lamborghini models and specifications
 
-Gallery – Visual showcase of Lamborghini design
+      Gallery – Visual showcase of Lamborghini design
 
-Intro Video – Cinematic video section highlighting the brand
+      Intro Video – Cinematic video section highlighting the brand
 
-FindUs – Dealership location and contact information
+      FindUs – Dealership location and contact information
 
-Footer – Social links and dealership details
+      Footer – Social links and dealership details
 
 TECH STACK:
 
-React (JSX)
+      React (JSX)
 
-CSS / Flexbox / Responsive Design
+      CSS / Flexbox / Responsive Design
 
-JavaScript
+      JavaScript
