@@ -6,7 +6,7 @@ This project focuses on clean UI, smooth animations, and a premium user experien
 
 ## Key Features
 
--  Responsive layout optimized for desktop, tablet, and mobile
+-  Responsive layout optimized for desktop and mobile
 
 -  Smooth image sliders and interactive animations
 
