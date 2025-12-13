@@ -1,4 +1,4 @@
-# Frontend
+# Lamborghini Dealership
 
 A modern, fully responsive Lamborghini dealership website built with React.
 
