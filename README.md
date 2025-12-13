@@ -8,13 +8,13 @@ This project focuses on clean UI, smooth animations, and a premium user experien
 
 -  Responsive layout optimized for desktop, tablet, and mobile
 
-+  Smooth image sliders and interactive animations
+-  Smooth image sliders and interactive animations
 
-*  Clean component-based architecture
+-  Clean component-based architecture
 
-Luxury-inspired UI and typography
+-  Luxury-inspired UI and typography
 
-Optimized layout for real-world dealership websites
+-  Optimized layout for real-world dealership websites
 
 ### `npm start`
 
