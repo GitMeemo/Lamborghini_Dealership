@@ -1,10 +1,20 @@
-# Lamborghini Dealership Website
+# Lamborghini Dealership 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, fully responsive Lamborghini dealership website built with React, can also be changed into any business website.
 
-## Available Scripts
+This project focuses on clean UI, smooth animations, and a premium user experience across all screen sizes.
 
-In the project directory, you can run:
+## Key Features
+
+-Responsive layout optimized for desktop, tablet, and mobile
+
++Smooth image sliders and interactive animations
+
+*Clean component-based architecture
+
+Luxury-inspired UI and typography
+
+Optimized layout for real-world dealership websites
 
 ### `npm start`
 
