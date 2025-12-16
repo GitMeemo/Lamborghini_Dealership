@@ -1,3 +1,5 @@
+![image alt] (https://github.com/GitMeemo/Lamborghini_Dealership/blob/cbd6f9055f5585aa0ab9f017e2d31bb55a5ca2da/Screenshot%20(33).png)
+
 # Lamborghini Dealership
 
 A modern, fully responsive Lamborghini dealership website built with React.
