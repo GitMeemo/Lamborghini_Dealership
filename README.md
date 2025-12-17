@@ -38,6 +38,8 @@ This project can also be used for other types of business websites.
 
 ### Tech Stack
 
+-  Node (JSX)
+
 -  React (JSX)
 
 -  CSS / Flexbox / Responsive Design
