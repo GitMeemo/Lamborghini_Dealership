@@ -40,8 +40,6 @@ This project can also be used for other types of business websites.
 
 -  Node (JSX)
 
--  React (JSX)
-
 -  CSS / Flexbox / Responsive Design
 
 -  JavaScript
