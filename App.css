@@ -1,0 +1,246 @@
+.Section_Padding {
+  padding: 3rem 6rem;
+}
+
+.Flex_Center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App_BG {
+  background: var(--color-black);
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.App_BG2 {
+  background: url('./assets/bg.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+}
+
+.App_BG3 {
+  background: rgb(18, 18, 18);
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  background-attachment: fixed;
+
+}
+
+
+.App_Wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  min-height: 100vh;
+}
+
+.App_Wrapper_Info {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.App_Wrapper_Img {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  margin-left: 2rem;
+  transition: transform 0.4s ease;
+}
+
+.App_Wrapper_Img:hover {
+  transform: scale(1.01);
+}
+
+.App_Wrapper_Img-Reverse {
+  justify-content: flex-start;
+  margin-right: 2rem;
+}
+
+.App_Wrapper_Img img {
+  width: 95%;
+}
+
+.Custom_Button {
+  background-color: var(--color-grey);
+  color: var(--color-black);
+  font-family: var(--font-alt);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 28px;
+  font-size: 16px;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.Custom_Button:hover {
+  background-color: var(--color-golden);
+  color: var(--color-black);
+  font-family: var(--font-alt);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 28px;
+  font-size: 16px;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.P_Cormorant {
+  font-family: var(--font-base);
+  color: var(--color-white);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  font-feature-settings: 'tnum' on, 'lnum' on;
+  line-height: 29.9px;
+  font-size: 23px;
+}
+
+.P_Opensans {
+  font-family: var(--font-alt);
+  color: var(--color-white);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+  line-height: 28px;
+  font-size: 16px;
+}
+
+.HeadText_Cormorant {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  font-size: 64px;
+  line-height: 83.2px;
+  letter-spacing: 0.04em;
+  text-transform: capitalize;
+}
+
+.Small_Img {
+  width: 60px;
+}
+
+.Small2_Img {
+  width: 60px;
+}
+
+.Small3_Img {
+  width: 60px;
+}
+
+@media screen and (min-width: 2000px) {
+
+  .Custom_Button,
+  .P__Cormorant {
+    font-size: 37px;
+    line-height: 67px;
+  }
+
+  .P_Opensans {
+    font-size: 30px;
+    line-height: 50px;
+  }
+
+  .HeadText_Cormorant {
+    font-size: 150px;
+    line-height: 210px;
+  }
+
+  .Small_Img {
+    width: 80px;
+  }
+
+  .Small2_Img {
+    width: 60px;
+  }
+
+  .Small3_Img {
+    width: 60px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .App_Wrapper {
+    flex-direction: column;
+  }
+
+  .App_Wrapper_Img {
+    margin: 5rem 0 0 0;
+  }
+
+  .App_Wrapper_Img-Reverse {
+    margin: 0 0 5rem 0;
+  }
+
+  .App_Wrapper_Img img {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .Section_Padding {
+    padding: 4rem;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .Section_Padding {
+    padding: 4rem 2rem;
+  }
+
+  .P_Cormorant {
+    font-size: 21px;
+  }
+
+  .P_Opensans {
+    font-size: 14px;
+  }
+
+  .App_Wrapper_Info h1 {
+    font-size: 45px;
+    line-height: 75px;
+  }
+
+  .App_Wrapper_Info button {
+    margin-left: 7rem;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .P_Opensans {
+    font-size: 12px;
+  }
+
+  .P_Cormorant {
+    font-size: 19px;
+  }
+
+  .HeadText_Cormorant {
+    font-size: 45px;
+    line-height: 70px;
+  }
+
+  .App_Wrapper_Info button {
+    margin-left: 5.5rem;
+  }
+}
