@@ -1,0 +1,60 @@
+.App_Wrapper_Showroom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+.App_Wrapper_Showroom_Info {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.App_Wrapper_Showroom_Img{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    margin-top: 2rem;
+    transition: transform 0.4s ease;
+}
+
+.App_Wrapper_Showroom_Img img{
+    width: 68%;
+
+}
+
+.App_Wrapper_Showroom_Img:hover {
+    transform: scale(1.01);
+}
+
+@media screen and (max-width: 650px) {
+
+    .App_Wrapper_Showroom_Img{
+        flex: 1;
+        display: flex;
+        justify-content: flex-start;
+        align-items: start;
+
+        margin-top: 5rem;
+        transition: transform 0.4s ease;
+    }
+
+    .App_Wrapper_Showroom {
+        display: block;
+    }
+
+    .App_Wrapper_Showroom_Img img {
+        width: 140%;
+        max-width: 100%;
+        height: auto;
+        object-fit: contain;
+    }
+}
