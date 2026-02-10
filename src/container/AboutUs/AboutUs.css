@@ -1,0 +1,112 @@
+.App_AboutUs {
+    position: relative;
+}
+
+.App_AboutUs-Overlay {
+    position: absolute;
+    inset: 0;
+}
+
+.App_AboutUs-Overlay img {
+    width: 100%;
+    padding: 10rem 0rem;
+    /* height: 415px; */
+    /* z-index: 0; */
+}
+
+.App_AboutUs-Content {
+    width: 100%;
+    z-index: 2;
+}
+
+.App_AboutUs-Content-About {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: right;
+}
+
+.App_AboutUs-Content_Car {
+    margin: 2rem 4rem;
+    transition: transform 0.2s ease;
+}
+
+.App_AboutUs-Content_Car:hover {
+    transform: scale(1.01);
+}
+
+.App_AboutUs-Content_Car img {
+    height: 500px;
+}
+
+.App_AboutUs-Content-History {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+}
+
+.App_AboutUs-Content-History p,
+.App_AboutUs-Content-About p {
+    margin: 2rem 0;
+    color: var(--color-grey);
+}
+
+@media screen and (max-width: 2000px) {
+    /* .App_AboutUs-Content_Car img {
+        height: 1000px;
+    } */
+
+    .App_AboutUs-Content-History p,
+    .App_AboutUs-Content-About p {
+        margin: 4rem 0;
+        color: var(--color-grey);
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .App_AboutUs-Content {
+        flex-direction: column;
+    }
+
+    .App_AboutUs-Content-Car {
+        margin: 4rem 0;
+    }
+
+    .App_AboutUs-Overlay img {
+        margin-top: 17rem;
+    }
+
+    .App_AboutUs-Content_Car img {
+        height: 550px;
+        padding-top: 5rem;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .App_AboutUs-Overlay img {
+        margin-top: 17rem;
+    }
+
+    .App_AboutUs-Content_Car img {
+        height: 370px;
+        padding-top: 4rem;
+    }
+
+    /* .App_AboutUs-Content-Car {
+        margin: 4rem 0;
+    } */
+
+    .App_AboutUs-Content-History h1,
+    .App_AboutUs-Content-About h1 {
+        font-size: 60px;
+    }
+
+    /* .App_AboutUs .Section_Padding{
+        padding: 2rem 2rem;
+    } */
+}
