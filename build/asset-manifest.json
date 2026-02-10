@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bfac499f.css",
-    "main.js": "/static/js/main.efe655b9.js",
+    "main.js": "/static/js/main.80cd3467.js",
     "static/media/Collection.mp4": "/static/media/Collection.28c4fa6b83599a0ebac5.mp4",
     "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/LamboDark.png": "/static/media/LamboDark.2e3644070962fd4d79a0.png",
@@ -29,10 +29,10 @@
     "static/media/LamboText.png": "/static/media/LamboText.dbd1edd0e7745dad389a.png",
     "index.html": "/index.html",
     "main.bfac499f.css.map": "/static/css/main.bfac499f.css.map",
-    "main.efe655b9.js.map": "/static/js/main.efe655b9.js.map"
+    "main.80cd3467.js.map": "/static/js/main.80cd3467.js.map"
   },
   "entrypoints": [
     "static/css/main.bfac499f.css",
-    "static/js/main.efe655b9.js"
+    "static/js/main.80cd3467.js"
   ]
 }
