@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfac499f.css",
+    "main.js": "/static/js/main.efe655b9.js",
+    "static/media/Collection.mp4": "/static/media/Collection.28c4fa6b83599a0ebac5.mp4",
+    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/LamboDark.png": "/static/media/LamboDark.2e3644070962fd4d79a0.png",
+    "static/media/Huracan2.png": "/static/media/Huracan2.dec8c630b32ef3eac570.png",
+    "static/media/Huracan.png": "/static/media/Huracan.8988255994cedaaf6335.png",
+    "static/media/Wellcome.jpg": "/static/media/Wellcome.81edc98937c8933662cc.jpg",
+    "static/media/small.png": "/static/media/small.dae65a9c1be7e83fabb3.png",
+    "static/media/small2.png": "/static/media/small2.a2ead6d2d56e505520a2.png",
+    "static/media/3.png": "/static/media/3.9413050f82f21b985344.png",
+    "static/media/5.png": "/static/media/5.cfffdd435e93789e8a78.png",
+    "static/media/4.png": "/static/media/4.b49404611f453716fb50.png",
+    "static/media/1.png": "/static/media/1.b70dcf816dbaca4a6328.png",
+    "static/media/2.png": "/static/media/2.66c7f1cc0a8e0ef4bd37.png",
+    "static/media/6.png": "/static/media/6.691cc931b4bc1b59572a.png",
+    "static/media/Gallery5.jpg": "/static/media/Gallery5.6ba0f03a0c9584fc8e11.jpg",
+    "static/media/Gallery4.jpg": "/static/media/Gallery4.9a29554d89757fa1605e.jpg",
+    "static/media/Gallery2.jpg": "/static/media/Gallery2.8df685d605d279391eb9.jpg",
+    "static/media/Gallery1.jpg": "/static/media/Gallery1.e46bf63b4a72db90c701.jpg",
+    "static/media/small3.png": "/static/media/small3.b942e197d3568642ddce.png",
+    "static/media/Gallery3.jpg": "/static/media/Gallery3.7f385804cd72d3fe6e04.jpg",
+    "static/media/findus.jpg": "/static/media/findus.664e9257894618fc412e.jpg",
+    "static/media/Reventon.png": "/static/media/Reventon.eb366c7554df258ddf20.png",
+    "static/media/LamboTextWhite.png": "/static/media/LamboTextWhite.f6c03a2510ef16b47452.png",
+    "static/media/LamboWhite.png": "/static/media/LamboWhite.1f9c92b5dd5b0c19fa49.png",
+    "static/media/LamboText.png": "/static/media/LamboText.dbd1edd0e7745dad389a.png",
+    "index.html": "/index.html",
+    "main.bfac499f.css.map": "/static/css/main.bfac499f.css.map",
+    "main.efe655b9.js.map": "/static/js/main.efe655b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfac499f.css",
+    "static/js/main.efe655b9.js"
+  ]
+}
